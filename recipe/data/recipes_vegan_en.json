@@ -218,7 +218,7 @@
       "imageUrl": "berry_oatmeal",
       "shortVideoName": "berry_oatmeal_video",
       "category": "breakfast",
-      "categoryIds": ["breakfast"],
+      "categoryIds": ["breakfast", "vegan"],
       "culture": ["International"],
       "features": ["vegetarian", "glutenFree", "quick", "noSugar", "nutFree"],
       "portionSizeGrams": 250,

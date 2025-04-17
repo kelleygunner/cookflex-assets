@@ -1,143 +1,163 @@
 [
-    {
-      "id": "a1b2c3d4-56ef-7890-ghij-klmnopqrstuv",
-      "title": "Рататуй с киноа",
-      "imageUrl": "ratatouille_quinoa",
-      "shortVideoName": "ratatouille_quinoa_video",
-      "category": "Веганские блюда",
-      "categoryIds": ["vegan"],
-      "culture": ["Французская", "Международная"],
-      "features": ["vegetarian", "glutenFree", "highProtein", "lowCarb", "quick"],
-      "portionSizeGrams": 350,
-      "nutritionPerPortion": {
-        "calories": 250,
-        "fat": 8,
-        "protein": 9,
-        "carbs": 40
-      },
-      "ingredients": [
-        {
-          "name": "Баклажан",
-          "quantity": "1 шт"
-        },
-        {
-          "name": "Кабачок",
-          "quantity": "1 шт"
-        },
-        {
-          "name": "Перец болгарский",
-          "quantity": "2 шт"
-        },
-        {
-          "name": "Помидор",
-          "quantity": "1 шт"
-        },
-        {
-          "name": "Лук",
-          "quantity": "1 шт"
-        },
-        {
-          "name": "Чеснок",
-          "quantity": "2 зубчика"
-        },
-        {
-          "name": "Киноа",
-          "quantity": "1 стакан"
-        },
-        {
-          "name": "Оливковое масло",
-          "quantity": "2 ст. ложки"
-        },
-        {
-          "name": "Травы (тимьян, розмарин)",
-          "quantity": "по вкусу"
-        }
-      ],
-      "steps": [
-        {
-          "description": "Промойте киноа и отварите согласно инструкции.",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Нарежьте овощи (баклажан, кабачок, перцы, помидор).",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Обжарьте лук и чеснок в оливковом масле.",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Добавьте нарезанные овощи и травы, готовьте 10-15 минут.",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Подавайте овощную смесь на киноа.",
-          "image": null,
-          "video": null
-        }
-      ]
+  {
+    "id": "a1b2c3d4-56ef-7890-ghij-klmnopqrstuv",
+    "title": "Рататуй с киноа",
+    "imageUrl": "ratatouille_quinoa",
+    "shortVideoName": "ratatouille_quinoa_video",
+    "category": "Веганское",
+    "categoryIds": ["vegan"],
+    "culture": ["Французская", "Интернациональная"],
+    "features": ["vegetarian", "glutenFree", "highProtein", "lowCarb", "quick"],
+    "portionSizeGrams": 350,
+    "nutritionPerPortion": {
+      "calories": 250,
+      "fat": 8,
+      "protein": 9,
+      "carbs": 40
     },
-    {
-      "id": "b3c4d5e6-78fg-901h-ijkl-mnopqrstuv",
-      "title": "Веганские такос с хумусом и авокадо",
-      "imageUrl": "vegan_tacos_hummus_avocado",
-      "shortVideoName": "vegan_tacos_video",
-      "category": "Веганские блюда",
-      "categoryIds": ["vegan"],
-      "culture": ["Мексиканская", "Международная"],
-      "features": ["vegetarian", "glutenFree", "quick", "nutFree"],
-      "portionSizeGrams": 200,
-      "nutritionPerPortion": {
-        "calories": 350,
-        "fat": 18,
-        "protein": 9,
-        "carbs": 35
-      },
-      "ingredients": [
-        {
-          "name": "Тортильи",
-          "quantity": "4 шт"
-        },
-        {
-          "name": "Хумус",
-          "quantity": "3 ст. ложки"
-        },
-        {
-          "name": "Авокадо",
-          "quantity": "1 шт"
-        },
-        {
-          "name": "Помидор",
-          "quantity": "1 шт"
-        },
-        {
-          "name": "Салат",
-          "quantity": "несколько листьев"
-        }
-      ],
-      "steps": [
-        {
-          "description": "Разогрейте тортильи на сковороде.",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Нанесите хумус на каждую тортилью.",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Нарежьте авокадо и помидор.",
-          "image": null,
-          "video": null
-        },
-        {
-          "description": "Положите салат, авокадо и помидор на тортильи.",
-          "image": null,
-          "video
-
+    "ingredients": [
+      { "name": "Баклажан", "quantity": "1 шт" },
+      { "name": "Кабачок", "quantity": "1 шт" },
+      { "name": "Болгарский перец", "quantity": "2 шт" },
+      { "name": "Томат", "quantity": "1 шт" },
+      { "name": "Лук", "quantity": "1 шт" },
+      { "name": "Чеснок", "quantity": "2 зубчика" },
+      { "name": "Киноа", "quantity": "1 стакан" },
+      { "name": "Оливковое масло", "quantity": "2 ст. л." },
+      { "name": "Травы (тимьян, розмарин)", "quantity": "по вкусу" }
+    ],
+    "steps": [
+      { "description": "Промойте киноа и отварите по инструкции.", "image": null, "video": null },
+      { "description": "Нарежьте овощи (баклажан, кабачок, перец, томат).", "image": null, "video": null },
+      { "description": "Обжарьте лук и чеснок на оливковом масле.", "image": null, "video": null },
+      { "description": "Добавьте овощи и травы, тушите 10–15 минут.", "image": null, "video": null },
+      { "description": "Подавайте овощи с киноа.", "image": null, "video": null }
+    ]
+  },
+  {
+    "id": "b3c4d5e6-78fg-901h-ijkl-mnopqrstuv",
+    "title": "Веганские тако с хумусом и авокадо",
+    "imageUrl": "vegan_tacos_hummus_avocado",
+    "shortVideoName": "vegan_tacos_video",
+    "category": "Веганское",
+    "categoryIds": ["vegan"],
+    "culture": ["Мексиканская", "Интернациональная"],
+    "features": ["vegetarian", "glutenFree", "quick", "nutFree"],
+    "portionSizeGrams": 200,
+    "nutritionPerPortion": {
+      "calories": 350,
+      "fat": 18,
+      "protein": 9,
+      "carbs": 35
+    },
+    "ingredients": [
+      { "name": "Тортильи", "quantity": "4 шт" },
+      { "name": "Хумус", "quantity": "3 ст. л." },
+      { "name": "Авокадо", "quantity": "1 шт" },
+      { "name": "Томат", "quantity": "1 шт" },
+      { "name": "Листья салата", "quantity": "несколько листьев" }
+    ],
+    "steps": [
+      { "description": "Разогрейте тортильи на сковороде.", "image": null, "video": null },
+      { "description": "Намажьте хумус на каждую тортилью.", "image": null, "video": null },
+      { "description": "Нарежьте авокадо и томат.", "image": null, "video": null },
+      { "description": "Выложите салат, авокадо и томат на тортильи.", "image": null, "video": null },
+      { "description": "Подавайте с лимонным соком или соусом.", "image": null, "video": null }
+    ]
+  },
+  {
+    "id": "fc3e42dd-4e89-4da0-a20a-71a60e9c5a10",
+    "title": "Салат из нута и овощей",
+    "imageUrl": "chickpea_veggie_salad",
+    "shortVideoName": "chickpea_salad_video",
+    "category": "Веганское",
+    "categoryIds": ["vegan"],
+    "culture": ["Средиземноморская", "Интернациональная"],
+    "features": ["vegetarian", "glutenFree", "quick", "highProtein", "nutFree"],
+    "portionSizeGrams": 300,
+    "nutritionPerPortion": {
+      "calories": 320,
+      "fat": 12,
+      "protein": 14,
+      "carbs": 30
+    },
+    "ingredients": [
+      { "name": "Отварной нут", "quantity": "1 стакан" },
+      { "name": "Огурец", "quantity": "1 шт" },
+      { "name": "Черри", "quantity": "100 г" },
+      { "name": "Красный лук", "quantity": "0.5 шт" },
+      { "name": "Лимонный сок", "quantity": "2 ст. л." },
+      { "name": "Оливковое масло", "quantity": "1 ст. л." },
+      { "name": "Соль и перец", "quantity": "по вкусу" }
+    ],
+    "steps": [
+      { "description": "Нарежьте огурец, томаты и лук.", "image": null, "video": null },
+      { "description": "Смешайте с нутом.", "image": null, "video": null },
+      { "description": "Добавьте лимонный сок, масло, соль и перец.", "image": null, "video": null },
+      { "description": "Перемешайте и подавайте охлаждённым.", "image": null, "video": null }
+    ]
+  },
+  {
+    "id": "2a68d9ba-7f11-4d8f-a8c9-115b6a9cfbee",
+    "title": "Карри из сладкого картофеля и шпината",
+    "imageUrl": "sweet_potato_curry",
+    "shortVideoName": "sweet_potato_curry_video",
+    "category": "Веганское",
+    "categoryIds": ["vegan"],
+    "culture": ["Индийская", "Интернациональная"],
+    "features": ["vegetarian", "glutenFree", "nutFree", "dairyFree", "highProtein"],
+    "portionSizeGrams": 400,
+    "nutritionPerPortion": {
+      "calories": 380,
+      "fat": 14,
+      "protein": 10,
+      "carbs": 45
+    },
+    "ingredients": [
+      { "name": "Сладкий картофель", "quantity": "2 шт" },
+      { "name": "Шпинат", "quantity": "100 г" },
+      { "name": "Кокосовое молоко", "quantity": "200 мл" },
+      { "name": "Паста карри", "quantity": "2 ст. л." },
+      { "name": "Лук", "quantity": "1 шт" },
+      { "name": "Чеснок", "quantity": "2 зубчика" },
+      { "name": "Оливковое масло", "quantity": "1 ст. л." }
+    ],
+    "steps": [
+      { "description": "Очистите и нарежьте сладкий картофель кубиками.", "image": null, "video": null },
+      { "description": "Обжарьте лук и чеснок на масле.", "image": null, "video": null },
+      { "description": "Добавьте пасту карри и перемешайте.", "image": null, "video": null },
+      { "description": "Добавьте картофель и кокосовое молоко, тушите до мягкости.", "image": null, "video": null },
+      { "description": "Добавьте шпинат и тушите до мягкости листьев.", "image": null, "video": null }
+    ]
+  },
+  {
+    "id": "7f9b2e4a-3cde-4913-91fa-ccf1e1843f22",
+    "title": "Веганская овсянка с ягодами",
+    "imageUrl": "berry_oatmeal",
+    "shortVideoName": "berry_oatmeal_video",
+    "category": "Завтрак",
+    "categoryIds": ["breakfast", "vegan"],
+    "culture": ["Интернациональная"],
+    "features": ["vegetarian", "glutenFree", "quick", "noSugar", "nutFree"],
+    "portionSizeGrams": 250,
+    "nutritionPerPortion": {
+      "calories": 270,
+      "fat": 6,
+      "protein": 6,
+      "carbs": 45
+    },
+    "ingredients": [
+      { "name": "Овсяные хлопья", "quantity": "0.5 стакана" },
+      { "name": "Миндальное молоко", "quantity": "1 стакан" },
+      { "name": "Смесь ягод", "quantity": "100 г" },
+      { "name": "Кленовый сироп", "quantity": "1 ст. л." },
+      { "name": "Корица", "quantity": "по вкусу" }
+    ],
+    "steps": [
+      { "description": "Смешайте овсянку с миндальным молоком в кастрюле.", "image": null, "video": null },
+      { "description": "Готовьте на среднем огне 5–7 минут.", "image": null, "video": null },
+      { "description": "Добавьте кленовый сироп и корицу.", "image": null, "video": null },
+      { "description": "Украсьте свежими или замороженными ягодами.", "image": null, "video": null }
+    ]
+  }
 ]
