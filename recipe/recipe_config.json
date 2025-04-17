@@ -4,5 +4,7 @@
     "recipes_part1_ru.json",
     "recipes_vegan_en.json",
     "recipes_vegan_ru.json",
+    "dinners_en.json",
+    "dinners_ru.json",
   ]
 }
