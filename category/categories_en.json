@@ -1,0 +1,33 @@
+[
+    {
+        "id": "easy_dinners",
+        "title": "Easy Dinners",
+        "icon": "🍽️"
+    },
+    {
+        "id": "five_ingredients",
+        "title": "5 Ingredients",
+        "icon": "🥑"
+    },
+    {
+        "id": "one_pan",
+        "title": "One Pan Only",
+        "icon": "🍳"
+    },
+    {
+        "id": "vegan",
+        "title": "Vegan",
+        "icon": "🌱"
+    },
+    {
+        "id": "for_kids",
+        "title": "For Kids",
+        "icon": "🧒"
+    },
+    {
+        "id": "nostalgia",
+        "title": "Grandma’s Nostalgia",
+        "icon": "🧁"
+    }
+]
+

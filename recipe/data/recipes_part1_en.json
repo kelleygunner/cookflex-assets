@@ -1,62 +1,69 @@
 [
     {
-        "id": "c0f823a4-38a3-42d1-b13b-125bb9d3b63d",
-        "title": "Classic Pancakes",
-        "imageUrl": "pancakes_for_kids.png",
-        "category": "For Kids",
-        "shortVideoName": "pancakes_video",
-        "features": ["highProtein"],
-        "culture": ["Russian"],
-        "nutrition": {
-            "calories": 220,
-            "fat": 8,
-            "protein": 6,
-            "carbs": 30
-        },
-        "ingredients": [
-            "Flour",
-            "Eggs",
-            "Milk",
-            "Butter",
-            "Maple syrup"
-        ],
-        "steps": [
-            "Mix flour, eggs, and milk until smooth.",
-            "Heat a pan and melt a little butter.",
-            "Pour some batter into the pan and cook for 2–3 minutes on each side.",
-            "Repeat until all batter is used.",
-            "Serve with maple syrup."
-        ],
-        "categoryIds": ["for_kids","Vegan","nostalgia"]
-    },
+      "id": "c0f823a4-38a3-42d1-b13b-125bb9d3b63d",
+      "title": "Classic Pancakes",
+      "imageUrl": "pancakes_for_kids",
+      "shortVideoName": "pancakes_video",
+      "category": "For Kids",
+      "categoryIds": ["for_kids"],
+      "culture": ["Russian"],
+      "features": ["vegetarian", "quick"],
+      "portionSizeGrams": 180,
+      "nutritionPerPortion": {
+        "calories": 220,
+        "fat": 8,
+        "protein": 6,
+        "carbs": 30
+      },
+      "ingredients": [
         {
-        "id": "c0f823a4-38a3-4461-b13b-125bb9d3b63d",
-        "title": "Kids Pancakes",
-        "imageUrl": "pancakes_for_kids.png",
-        "category": "For Kids",
-        "shortVideoName": "pancakes_video",
-        "features": ["highProtein"],
-        "culture": ["Russian"],
-        "nutrition": {
-            "calories": 220,
-            "fat": 8,
-            "protein": 6,
-            "carbs": 30
+          "name": "Flour",
+          "quantity": "150 g"
         },
-        "ingredients": [
-            "Flour",
-            "Eggs",
-            "Milk",
-            "Butter",
-            "Maple syrup"
-        ],
-        "steps": [
-            "Mix flour, eggs, and milk until smooth.",
-            "Heat a pan and melt a little butter.",
-            "Pour some batter into the pan and cook for 2–3 minutes on each side.",
-            "Repeat until all batter is used.",
-            "Serve with maple syrup."
-        ],
-        "categoryIds": ["for_kids"]
+        {
+          "name": "Eggs",
+          "quantity": "2 pcs"
+        },
+        {
+          "name": "Milk",
+          "quantity": "300 ml"
+        },
+        {
+          "name": "Butter",
+          "quantity": "20 g"
+        },
+        {
+          "name": "Maple syrup",
+          "quantity": "to taste"
+        }
+      ],
+      "steps": [
+        {
+          "description": "Mix flour, eggs, and milk until you get a smooth batter.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Heat a pan and melt a bit of butter.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Pour some batter and fry the pancake on both sides for 2–3 minutes.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Repeat until all the batter is used up.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Serve with maple syrup.",
+          "image": null,
+          "video": null
+        }
+      ]
     }
+
 ]
