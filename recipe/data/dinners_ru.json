@@ -1,0 +1,120 @@
+[
+  {
+    "id": "e1a2d3f4-5678-9abc-def0-1234567890ab",
+    "title": "Макароны с овощами и чесноком",
+    "imageUrl": "pasta_veggies_garlic",
+    "shortVideoName": "pasta_veggies_video",
+    "category": "Простые ужины",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Итальянская", "Интернациональная"],
+    "features": ["vegetarian", "quick", "nutFree"],
+    "portionSizeGrams": 350,
+    "nutritionPerPortion": {
+      "calories": 420,
+      "fat": 10,
+      "protein": 12,
+      "carbs": 65
+    },
+    "ingredients": [
+      { "name": "Макароны", "quantity": "200 г" },
+      { "name": "Кабачок", "quantity": "1 шт" },
+      { "name": "Морковь", "quantity": "1 шт" },
+      { "name": "Чеснок", "quantity": "2 зубчика" },
+      { "name": "Оливковое масло", "quantity": "2 ст. л." },
+      { "name": "Соль и перец", "quantity": "по вкусу" }
+    ],
+    "steps": [
+      { "description": "Сварите макароны по инструкции." },
+      { "description": "Обжарьте натёртую морковь, порезанный кабачок и чеснок." },
+      { "description": "Смешайте с макаронами, приправьте по вкусу и подавайте." }
+    ]
+  },
+  {
+    "id": "fa3210cd-4eaf-11ee-b8c2-0242ac120002",
+    "title": "Куриное филе в сливочном соусе",
+    "imageUrl": "creamy_chicken_filet",
+    "shortVideoName": "creamy_chicken_video",
+    "category": "Простые ужины",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Французская", "Интернациональная"],
+    "features": ["highProtein", "quick"],
+    "portionSizeGrams": 300,
+    "nutritionPerPortion": {
+      "calories": 390,
+      "fat": 18,
+      "protein": 35,
+      "carbs": 10
+    },
+    "ingredients": [
+      { "name": "Куриное филе", "quantity": "2 шт" },
+      { "name": "Сливки 10%", "quantity": "150 мл" },
+      { "name": "Чеснок", "quantity": "1 зубчик" },
+      { "name": "Соль и перец", "quantity": "по вкусу" },
+      { "name": "Масло", "quantity": "1 ст. л." }
+    ],
+    "steps": [
+      { "description": "Нарежьте курицу и обжарьте на сковороде до золотистой корочки." },
+      { "description": "Добавьте измельчённый чеснок и сливки." },
+      { "description": "Тушите 5–7 минут, подавайте с гарниром." }
+    ]
+  },
+  {
+    "id": "7af0c1bd-4dd3-4dd3-aeb3-c2c8c9157ea2",
+    "title": "Жареный рис с яйцом и овощами",
+    "imageUrl": "fried_rice_egg_veggies",
+    "shortVideoName": "fried_rice_video",
+    "category": "Простые ужины",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Азиатская", "Интернациональная"],
+    "features": ["quick", "nutFree"],
+    "portionSizeGrams": 400,
+    "nutritionPerPortion": {
+      "calories": 450,
+      "fat": 15,
+      "protein": 14,
+      "carbs": 60
+    },
+    "ingredients": [
+      { "name": "Отварной рис", "quantity": "2 стакана" },
+      { "name": "Яйцо", "quantity": "2 шт" },
+      { "name": "Морковь", "quantity": "1 шт" },
+      { "name": "Горошек", "quantity": "100 г" },
+      { "name": "Соевый соус", "quantity": "2 ст. л." },
+      { "name": "Растительное масло", "quantity": "2 ст. л." }
+    ],
+    "steps": [
+      { "description": "Обжарьте морковь и горошек на сковороде." },
+      { "description": "Добавьте взбитые яйца и готовьте, помешивая." },
+      { "description": "Добавьте рис и соевый соус, обжарьте всё вместе 5 минут." }
+    ]
+  },
+  {
+    "id": "f09ce1ae-1f62-4a8c-b68f-7b297b4e4b80",
+    "title": "Запечённая картошка с сыром и зеленью",
+    "imageUrl": "baked_potatoes_cheese",
+    "shortVideoName": "baked_potatoes_video",
+    "category": "Простые ужины",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Славянская", "Интернациональная"],
+    "features": ["vegetarian", "glutenFree", "nutFree"],
+    "portionSizeGrams": 350,
+    "nutritionPerPortion": {
+      "calories": 360,
+      "fat": 14,
+      "protein": 10,
+      "carbs": 45
+    },
+    "ingredients": [
+      { "name": "Картофель", "quantity": "3 шт" },
+      { "name": "Твёрдый сыр", "quantity": "100 г" },
+      { "name": "Сметана", "quantity": "2 ст. л." },
+      { "name": "Зелень", "quantity": "по вкусу" },
+      { "name": "Соль и перец", "quantity": "по вкусу" }
+    ],
+    "steps": [
+      { "description": "Запеките картофель в духовке до мягкости (40–50 мин)." },
+      { "description": "Разрежьте и наполните смесью из сыра, сметаны и зелени." },
+      { "description": "Поставьте в духовку ещё на 5–10 минут, чтобы сыр расплавился." }
+    ]
+  }
+]

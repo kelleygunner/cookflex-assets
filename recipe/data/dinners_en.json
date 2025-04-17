@@ -1,0 +1,120 @@
+[
+  {
+    "id": "e1a2d3f4-5678-9abc-def0-1234567890ab",
+    "title": "Pasta with Vegetables and Garlic",
+    "imageUrl": "pasta_veggies_garlic",
+    "shortVideoName": "pasta_veggies_video",
+    "category": "Easy Dinners",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Italian", "International"],
+    "features": ["vegetarian", "quick", "nutFree"],
+    "portionSizeGrams": 350,
+    "nutritionPerPortion": {
+      "calories": 420,
+      "fat": 10,
+      "protein": 12,
+      "carbs": 65
+    },
+    "ingredients": [
+      { "name": "Pasta", "quantity": "200 g" },
+      { "name": "Zucchini", "quantity": "1 piece" },
+      { "name": "Carrot", "quantity": "1 piece" },
+      { "name": "Garlic", "quantity": "2 cloves" },
+      { "name": "Olive oil", "quantity": "2 tbsp" },
+      { "name": "Salt and pepper", "quantity": "to taste" }
+    ],
+    "steps": [
+      { "description": "Cook the pasta according to the package instructions." },
+      { "description": "Sauté grated carrot, chopped zucchini, and garlic." },
+      { "description": "Mix with pasta, season to taste, and serve." }
+    ]
+  },
+  {
+    "id": "fa3210cd-4eaf-11ee-b8c2-0242ac120002",
+    "title": "Creamy Chicken Fillet",
+    "imageUrl": "creamy_chicken_filet",
+    "shortVideoName": "creamy_chicken_video",
+    "category": "Easy Dinners",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["French", "International"],
+    "features": ["highProtein", "quick"],
+    "portionSizeGrams": 300,
+    "nutritionPerPortion": {
+      "calories": 390,
+      "fat": 18,
+      "protein": 35,
+      "carbs": 10
+    },
+    "ingredients": [
+      { "name": "Chicken fillet", "quantity": "2 pieces" },
+      { "name": "Cream (10%)", "quantity": "150 ml" },
+      { "name": "Garlic", "quantity": "1 clove" },
+      { "name": "Salt and pepper", "quantity": "to taste" },
+      { "name": "Butter or oil", "quantity": "1 tbsp" }
+    ],
+    "steps": [
+      { "description": "Cut the chicken and fry in a pan until golden." },
+      { "description": "Add minced garlic and cream." },
+      { "description": "Simmer for 5–7 minutes and serve with a side dish." }
+    ]
+  },
+  {
+    "id": "7af0c1bd-4dd3-4dd3-aeb3-c2c8c9157ea2",
+    "title": "Fried Rice with Egg and Vegetables",
+    "imageUrl": "fried_rice_egg_veggies",
+    "shortVideoName": "fried_rice_video",
+    "category": "Easy Dinners",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Asian", "International"],
+    "features": ["quick", "nutFree"],
+    "portionSizeGrams": 400,
+    "nutritionPerPortion": {
+      "calories": 450,
+      "fat": 15,
+      "protein": 14,
+      "carbs": 60
+    },
+    "ingredients": [
+      { "name": "Cooked rice", "quantity": "2 cups" },
+      { "name": "Eggs", "quantity": "2 pieces" },
+      { "name": "Carrot", "quantity": "1 piece" },
+      { "name": "Green peas", "quantity": "100 g" },
+      { "name": "Soy sauce", "quantity": "2 tbsp" },
+      { "name": "Vegetable oil", "quantity": "2 tbsp" }
+    ],
+    "steps": [
+      { "description": "Fry the carrot and peas in a pan." },
+      { "description": "Add beaten eggs and stir while cooking." },
+      { "description": "Add rice and soy sauce, stir-fry for 5 minutes." }
+    ]
+  },
+  {
+    "id": "f09ce1ae-1f62-4a8c-b68f-7b297b4e4b80",
+    "title": "Baked Potatoes with Cheese and Herbs",
+    "imageUrl": "baked_potatoes_cheese",
+    "shortVideoName": "baked_potatoes_video",
+    "category": "Easy Dinners",
+    "categoryIds": ["easy_dinners"],
+    "culture": ["Slavic", "International"],
+    "features": ["vegetarian", "glutenFree", "nutFree"],
+    "portionSizeGrams": 350,
+    "nutritionPerPortion": {
+      "calories": 360,
+      "fat": 14,
+      "protein": 10,
+      "carbs": 45
+    },
+    "ingredients": [
+      { "name": "Potatoes", "quantity": "3 pieces" },
+      { "name": "Hard cheese", "quantity": "100 g" },
+      { "name": "Sour cream", "quantity": "2 tbsp" },
+      { "name": "Fresh herbs", "quantity": "to taste" },
+      { "name": "Salt and pepper", "quantity": "to taste" }
+    ],
+    "steps": [
+      { "description": "Bake the potatoes in the oven until soft (40–50 min)." },
+      { "description": "Slice and fill with a mixture of cheese, sour cream, and herbs." },
+      { "description": "Place back in the oven for 5–10 minutes until the cheese melts." }
+    ]
+  }
+]
