@@ -64,6 +64,69 @@
           "video": null
         }
       ]
+    },
+    {
+      "id": "9d0e6d8a-35fa-4372-98f4-bf0598c4f75e",
+      "title": "Fruit Smoothie",
+      "imageUrl": "fruit_smoothie_kids",
+      "shortVideoName": "fruit_smoothie_video",
+      "category": "For Kids",
+      "categoryIds": ["for_kids"],
+      "culture": ["International"],
+      "features": ["vegetarian", "glutenFree", "quick", "nutFree"],
+      "portionSizeGrams": 250,
+      "nutritionPerPortion": {
+        "calories": 150,
+        "fat": 1,
+        "protein": 3,
+        "carbs": 35
+      },
+      "ingredients": [
+        {
+          "name": "Banana",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Strawberries",
+          "quantity": "100 g"
+        },
+        {
+          "name": "Unsweetened yogurt",
+          "quantity": "150 ml"
+        },
+        {
+          "name": "Honey (optional)",
+          "quantity": "1 tsp"
+        }
+      ],
+      "steps": [
+        {
+          "description": "Wash the strawberries and remove the stems.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Peel the banana and cut it into pieces.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Put all the ingredients into a blender.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Blend until smooth.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Pour into a glass and serve immediately.",
+          "image": null,
+          "video": null
+        }
+      ]
     }
+
 
 ]

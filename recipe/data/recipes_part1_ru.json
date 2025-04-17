@@ -1,4 +1,5 @@
-{
+[
+    {
   "id": "c0f823a4-38a3-42d1-b13b-125bb9d3b63d",
   "title": "Классические блинчики",
   "imageUrl": "pancakes_for_kids",
@@ -63,4 +64,68 @@
       "video": null
     }
   ]
-}
+},
+    {
+      "id": "9d0e6d8a-35fa-4372-98f4-bf0598c4f75e",
+      "title": "Фруктовое смузи",
+      "imageUrl": "fruit_smoothie_kids",
+      "shortVideoName": "fruit_smoothie_video",
+      "category": "Для детей",
+      "categoryIds": ["for_kids"],
+      "culture": ["International"],
+      "features": ["vegetarian", "glutenFree", "quick", "nutFree"],
+      "portionSizeGrams": 250,
+      "nutritionPerPortion": {
+        "calories": 150,
+        "fat": 1,
+        "protein": 3,
+        "carbs": 35
+      },
+      "ingredients": [
+        {
+          "name": "Банан",
+          "quantity": "1 шт."
+        },
+        {
+          "name": "Клубника",
+          "quantity": "100 г"
+        },
+        {
+          "name": "Йогурт без сахара",
+          "quantity": "150 мл"
+        },
+        {
+          "name": "Мёд (по желанию)",
+          "quantity": "1 ч.л."
+        }
+      ],
+      "steps": [
+        {
+          "description": "Промойте клубнику и удалите хвостики.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Очистите банан и нарежьте на кусочки.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Положите все ингредиенты в блендер.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Взбейте до однородной массы.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Перелейте в стакан и подавайте сразу.",
+          "image": null,
+          "video": null
+        }
+      ]
+    }
+
+]
