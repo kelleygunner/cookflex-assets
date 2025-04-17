@@ -146,7 +146,101 @@
           "video": null
         }
       ]
+    },
+    {
+      "id": "fc3e42dd-4e89-4da0-a20a-71a60e9c5a10",
+      "title": "Chickpea Veggie Salad",
+      "imageUrl": "chickpea_veggie_salad",
+      "shortVideoName": "chickpea_salad_video",
+      "category": "Vegan",
+      "categoryIds": ["vegan"],
+      "culture": ["Mediterranean", "International"],
+      "features": ["vegetarian", "glutenFree", "quick", "highProtein", "nutFree"],
+      "portionSizeGrams": 300,
+      "nutritionPerPortion": {
+        "calories": 320,
+        "fat": 12,
+        "protein": 14,
+        "carbs": 30
+      },
+      "ingredients": [
+        { "name": "Boiled chickpeas", "quantity": "1 cup" },
+        { "name": "Cucumber", "quantity": "1 pc" },
+        { "name": "Cherry tomatoes", "quantity": "100 g" },
+        { "name": "Red onion", "quantity": "0.5 pc" },
+        { "name": "Lemon juice", "quantity": "2 tbsp" },
+        { "name": "Olive oil", "quantity": "1 tbsp" },
+        { "name": "Salt & pepper", "quantity": "to taste" }
+      ],
+      "steps": [
+        { "description": "Chop cucumber, tomatoes, and onion.", "image": null, "video": null },
+        { "description": "Mix with boiled chickpeas.", "image": null, "video": null },
+        { "description": "Add lemon juice, olive oil, salt, and pepper.", "image": null, "video": null },
+        { "description": "Toss well and serve chilled.", "image": null, "video": null }
+      ]
+    },
+    {
+      "id": "2a68d9ba-7f11-4d8f-a8c9-115b6a9cfbee",
+      "title": "Sweet Potato Spinach Curry",
+      "imageUrl": "sweet_potato_curry",
+      "shortVideoName": "sweet_potato_curry_video",
+      "category": "Vegan",
+      "categoryIds": ["vegan"],
+      "culture": ["Indian", "International"],
+      "features": ["vegetarian", "glutenFree", "nutFree", "dairyFree", "highProtein"],
+      "portionSizeGrams": 400,
+      "nutritionPerPortion": {
+        "calories": 380,
+        "fat": 14,
+        "protein": 10,
+        "carbs": 45
+      },
+      "ingredients": [
+        { "name": "Sweet potato", "quantity": "2 pcs" },
+        { "name": "Spinach", "quantity": "100 g" },
+        { "name": "Coconut milk", "quantity": "200 ml" },
+        { "name": "Curry paste", "quantity": "2 tbsp" },
+        { "name": "Onion", "quantity": "1 pc" },
+        { "name": "Garlic", "quantity": "2 cloves" },
+        { "name": "Olive oil", "quantity": "1 tbsp" }
+      ],
+      "steps": [
+        { "description": "Peel and dice sweet potatoes.", "image": null, "video": null },
+        { "description": "Sauté onion and garlic in olive oil.", "image": null, "video": null },
+        { "description": "Add curry paste and stir.", "image": null, "video": null },
+        { "description": "Add sweet potato and coconut milk. Simmer until soft.", "image": null, "video": null },
+        { "description": "Stir in spinach and cook until wilted.", "image": null, "video": null }
+      ]
+    },
+    {
+      "id": "7f9b2e4a-3cde-4913-91fa-ccf1e1843f22",
+      "title": "Vegan Berry Oatmeal",
+      "imageUrl": "berry_oatmeal",
+      "shortVideoName": "berry_oatmeal_video",
+      "category": "Breakfast",
+      "categoryIds": ["breakfast"],
+      "culture": ["International"],
+      "features": ["vegetarian", "glutenFree", "quick", "noSugar", "nutFree"],
+      "portionSizeGrams": 250,
+      "nutritionPerPortion": {
+        "calories": 270,
+        "fat": 6,
+        "protein": 6,
+        "carbs": 45
+      },
+      "ingredients": [
+        { "name": "Rolled oats", "quantity": "0.5 cup" },
+        { "name": "Almond milk", "quantity": "1 cup" },
+        { "name": "Mixed berries", "quantity": "100 g" },
+        { "name": "Maple syrup", "quantity": "1 tbsp" },
+        { "name": "Cinnamon", "quantity": "to taste" }
+      ],
+      "steps": [
+        { "description": "In a pot, combine oats and almond milk.", "image": null, "video": null },
+        { "description": "Cook on medium heat for 5–7 minutes.", "image": null, "video": null },
+        { "description": "Stir in maple syrup and cinnamon.", "image": null, "video": null },
+        { "description": "Top with fresh or frozen berries.", "image": null, "video": null }
+      ]
     }
-
 
 ]
