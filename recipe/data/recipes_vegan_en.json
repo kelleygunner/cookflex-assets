@@ -217,7 +217,7 @@
       "title": "Vegan Berry Oatmeal",
       "imageUrl": "berry_oatmeal",
       "shortVideoName": "berry_oatmeal_video",
-      "category": "Breakfast",
+      "category": "breakfast",
       "categoryIds": ["breakfast"],
       "culture": ["International"],
       "features": ["vegetarian", "glutenFree", "quick", "noSugar", "nutFree"],
