@@ -1,6 +1,6 @@
 {
   "recipes": [
-    "recipes_part1_en.recipe",
-    "recipes_part2_en.recipe"
+    "recipes_part1_en.json",
+    "recipes_part2_en.json"
   ]
 }
