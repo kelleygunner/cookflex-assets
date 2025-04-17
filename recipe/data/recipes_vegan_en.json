@@ -1,0 +1,152 @@
+[
+    {
+      "id": "a1b2c3d4-56ef-7890-ghij-klmnopqrstuv",
+      "title": "Ratatouille with Quinoa",
+      "imageUrl": "ratatouille_quinoa",
+      "shortVideoName": "ratatouille_quinoa_video",
+      "category": "Vegan",
+      "categoryIds": ["vegan"],
+      "culture": ["French", "International"],
+      "features": ["vegetarian", "glutenFree", "highProtein", "lowCarb", "quick"],
+      "portionSizeGrams": 350,
+      "nutritionPerPortion": {
+        "calories": 250,
+        "fat": 8,
+        "protein": 9,
+        "carbs": 40
+      },
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Bell pepper",
+          "quantity": "2 pcs"
+        },
+        {
+          "name": "Tomato",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2 cloves"
+        },
+        {
+          "name": "Quinoa",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Herbs (thyme, rosemary)",
+          "quantity": "to taste"
+        }
+      ],
+      "steps": [
+        {
+          "description": "Rinse quinoa and cook according to instructions.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Chop vegetables (eggplant, zucchini, peppers, tomato).",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Sauté onion and garlic in olive oil.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Add chopped vegetables and herbs, cook for 10-15 minutes.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Serve the vegetable mix over quinoa.",
+          "image": null,
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "b3c4d5e6-78fg-901h-ijkl-mnopqrstuv",
+      "title": "Vegan Tacos with Hummus and Avocado",
+      "imageUrl": "vegan_tacos_hummus_avocado",
+      "shortVideoName": "vegan_tacos_video",
+      "category": "Vegan",
+      "categoryIds": ["vegan"],
+      "culture": ["Mexican", "International"],
+      "features": ["vegetarian", "glutenFree", "quick", "nutFree"],
+      "portionSizeGrams": 200,
+      "nutritionPerPortion": {
+        "calories": 350,
+        "fat": 18,
+        "protein": 9,
+        "carbs": 35
+      },
+      "ingredients": [
+        {
+          "name": "Tortillas",
+          "quantity": "4 pcs"
+        },
+        {
+          "name": "Hummus",
+          "quantity": "3 tbsp"
+        },
+        {
+          "name": "Avocado",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Tomato",
+          "quantity": "1 pc"
+        },
+        {
+          "name": "Lettuce",
+          "quantity": "few leaves"
+        }
+      ],
+      "steps": [
+        {
+          "description": "Warm the tortillas on a skillet.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Spread hummus on each tortilla.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Slice the avocado and tomato.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Place lettuce, avocado, and tomato on the tortillas.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Serve with a drizzle of lemon juice or sauce.",
+          "image": null,
+          "video": null
+        }
+      ]
+    }
+
+
+]

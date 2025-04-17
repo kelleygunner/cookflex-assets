@@ -1,0 +1,144 @@
+[
+    {
+      "id": "a1b2c3d4-56ef-7890-ghij-klmnopqrstuv",
+      "title": "Рататуй с киноа",
+      "imageUrl": "ratatouille_quinoa",
+      "shortVideoName": "ratatouille_quinoa_video",
+      "category": "Веганские блюда",
+      "categoryIds": ["vegan"],
+      "culture": ["Французская", "Международная"],
+      "features": ["vegetarian", "glutenFree", "highProtein", "lowCarb", "quick"],
+      "portionSizeGrams": 350,
+      "nutritionPerPortion": {
+        "calories": 250,
+        "fat": 8,
+        "protein": 9,
+        "carbs": 40
+      },
+      "ingredients": [
+        {
+          "name": "Баклажан",
+          "quantity": "1 шт"
+        },
+        {
+          "name": "Кабачок",
+          "quantity": "1 шт"
+        },
+        {
+          "name": "Перец болгарский",
+          "quantity": "2 шт"
+        },
+        {
+          "name": "Помидор",
+          "quantity": "1 шт"
+        },
+        {
+          "name": "Лук",
+          "quantity": "1 шт"
+        },
+        {
+          "name": "Чеснок",
+          "quantity": "2 зубчика"
+        },
+        {
+          "name": "Киноа",
+          "quantity": "1 стакан"
+        },
+        {
+          "name": "Оливковое масло",
+          "quantity": "2 ст. ложки"
+        },
+        {
+          "name": "Травы (тимьян, розмарин)",
+          "quantity": "по вкусу"
+        }
+      ],
+      "steps": [
+        {
+          "description": "Промойте киноа и отварите согласно инструкции.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Нарежьте овощи (баклажан, кабачок, перцы, помидор).",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Обжарьте лук и чеснок в оливковом масле.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Добавьте нарезанные овощи и травы, готовьте 10-15 минут.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Подавайте овощную смесь на киноа.",
+          "image": null,
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "b3c4d5e6-78fg-901h-ijkl-mnopqrstuv",
+      "title": "Веганские такос с хумусом и авокадо",
+      "imageUrl": "vegan_tacos_hummus_avocado",
+      "shortVideoName": "vegan_tacos_video",
+      "category": "Веганские блюда",
+      "categoryIds": ["vegan"],
+      "culture": ["Мексиканская", "Международная"],
+      "features": ["vegetarian", "glutenFree", "quick", "nutFree"],
+      "portionSizeGrams": 200,
+      "nutritionPerPortion": {
+        "calories": 350,
+        "fat": 18,
+        "protein": 9,
+        "carbs": 35
+      },
+      "ingredients": [
+        {
+          "name": "Тортильи",
+          "quantity": "4 шт"
+        },
+        {
+          "name": "Хумус",
+          "quantity": "3 ст. ложки"
+        },
+        {
+          "name": "Авокадо",
+          "quantity": "1 шт"
+        },
+        {
+          "name": "Помидор",
+          "quantity": "1 шт"
+        },
+        {
+          "name": "Салат",
+          "quantity": "несколько листьев"
+        }
+      ],
+      "steps": [
+        {
+          "description": "Разогрейте тортильи на сковороде.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Нанесите хумус на каждую тортилью.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Нарежьте авокадо и помидор.",
+          "image": null,
+          "video": null
+        },
+        {
+          "description": "Положите салат, авокадо и помидор на тортильи.",
+          "image": null,
+          "video
+
+
+]
